@@ -11,35 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://51qxyk.imaoyi.cn/starImage/ipa/Property.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.justep.x5.demo</string>
+				<string>com.jq.Property.1</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>X5 App download</string>
+				<string>Property App install</string>
 			</dict>
 		</dict>
 	</array>
